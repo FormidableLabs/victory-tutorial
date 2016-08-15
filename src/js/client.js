@@ -46,7 +46,9 @@ class Main extends React.Component {
             dependentAxis
             tickFormat={(x) => (`$${x / 1000}k`)}
           />
-          <VictoryStack>
+          <VictoryStack
+            colorScale={"warm"}
+          >
             <VictoryBar
               data={data2012}
               x={"quarter"}
