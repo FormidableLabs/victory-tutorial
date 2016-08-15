@@ -26,5 +26,8 @@
     "react-dom": "^15.3.0",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "victory": "^0.10.4"
   }
 }
