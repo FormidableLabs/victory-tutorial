@@ -28,6 +28,6 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "victory": "^0.10.4"
+    "victory": "^0.17.0"
   }
 }
