@@ -22,12 +22,12 @@
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.13.2",
     "babel-preset-react": "^6.11.1",
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "victory": "^0.17.0"
+    "victory": "~0.26.0"
   }
 }
